@@ -25,6 +25,10 @@ Scheme
 		"GoalOrange"		"255 133 0"
 		"TFOrange"			"145 73 59 255"
 
+		//Custom
+
+		"TruWhite"			"255 255 255 255"
+
 		"QuestGold"			"208 147 75 255"
 		"HalloweenThemeColor2015_Light"	"238 126 17 255"
 		"HalloweenThemeColor2015"		"135 54 16 255"
@@ -2899,6 +2903,9 @@ Scheme
 		}
     
 	//////////////////// CUSTOM FONTS /////////////////////////	
+
+
+	/////////////////// BARON REGULAR ////////////////////////
 	
 		BaronRegular12
 		{
@@ -2946,6 +2953,79 @@ Scheme
 			{
 				"name"		"BaronNeue"
 				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+
+		BaronRegular56
+		{
+			"1"
+			{
+				"name"		"BaronNeue"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+
+
+		/////////////////// BARON BLACK ////////////////////////
+
+		BaronBlack12
+		{
+			"1"
+			{
+				"name"		"BaronNeueBlack"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+
+		BaronBlack16
+		{
+			"1"
+			{
+				"name"		"BaronNeueBlack"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+
+		BaronBlack24
+		{
+			"1"
+			{
+				"name"		"BaronNeueBlack"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		BaronBlack36
+		{
+			"1"
+			{
+				"name"		"BaronNeueBlack"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+
+		BaronBlack42
+		{
+			"1"
+			{
+				"name"		"BaronNeueBlack"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+
+		BaronBlack56 
+		{
+			"1"
+			{
+				"name"		"BaronNeueBlack"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}
