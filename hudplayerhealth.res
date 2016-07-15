@@ -80,13 +80,13 @@
 		"ypos"			"52"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"5"
-		"wide"			"50"
+		"wide"			"50" 
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudClassHealth"
+		"font"			"BaronRegular24"
 		"fgcolor"		"TanDark"
 	}								
 	"PlayerStatusBleedImage"
