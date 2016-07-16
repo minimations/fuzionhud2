@@ -28,6 +28,7 @@ Scheme
 		//Custom
 
 		"TruWhite"			"255 255 255 255"
+		"TruBlack"			"0 0 0 255"
 
 		"QuestGold"			"208 147 75 255"
 		"HalloweenThemeColor2015_Light"	"238 126 17 255"
